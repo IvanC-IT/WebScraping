@@ -8,7 +8,8 @@
 
 # Usage
  Install Pip.
- Start the script and install him all the modules he needs to work.
+
+ Start the script and he will install all the modules he needs to work.
  For use scraping commands see the official Selenium page.(I put the link inside the script).
 
 # Contributing
