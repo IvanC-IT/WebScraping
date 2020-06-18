@@ -1,4 +1,5 @@
 # WebScraping
+ ( Only for Windows )
  The code was initialized to take advantage of selenium scraping
 
 # Prerequisites
@@ -7,7 +8,7 @@
  Selenium;
 
 # Usage
- Install Pip.\n
+ Install Pip.
  Start the script and he will install all the modules he needs to work.
  For use scraping commands see the official Selenium page.(I put the link inside the script).
 
