@@ -2,9 +2,9 @@
  The code was initialized to take advantage of selenium scraping
 
 # Prerequisites
- Python3
- Pip 
- Selenium
+ Python3;
+ Pip; 
+ Selenium;
 
 # Usage
  Install Pip.
