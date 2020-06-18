@@ -34,7 +34,7 @@ chrome_options.add_argument('--incognito')
 chrome_options.add_argument('window-size=800,600')# window size
 preferences = {"download.default_directory": download_dir,"directory_upgrade": True,"safebrowsing.enabled": True }
 chrome_options.add_experimental_option("prefs", preferences)
-url = input('Entered your url (exsample:  google.com)-> ')
+url = input('Enter your url (exsample:  google.com)-> ')
 path_eseguibile_chrome = r'C:\Users\USERNAME\.wdm\drivers\chromedriver\83.0.4103.39\win32\chromedriver' # insert your user
 driver = webdriver.Chrome(chrome_options=chrome_options,executable_path=path_eseguibile_chrome) 
 driver.get('https://'+url);
