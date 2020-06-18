@@ -7,9 +7,7 @@
  Selenium;
 
 # Usage
- ( Only for Windows )
-
- Install Pip.
+ Install Pip.\n
  Start the script and he will install all the modules he needs to work.
  For use scraping commands see the official Selenium page.(I put the link inside the script).
 
